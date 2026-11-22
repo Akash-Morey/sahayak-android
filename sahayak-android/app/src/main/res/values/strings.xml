@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sahayak</string>
+    <string name="accessibility_description">Allows Sahayak to read button positions on screen (including banking/UPI UI trees) so the floating pointer can guide your parents safely without capturing sensitive passwords.</string>
+</resources>
